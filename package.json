@@ -1,0 +1,20 @@
+{
+  "name": "rj-spinner",
+  "version": "1.0.0",
+  "description": "A library which provide spinner for react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhavesh1334/rj-spinner.git"
+  },
+  "keywords": [],
+  "author": "Bhavesh Chandrakar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhavesh1334/rj-spinner/issues"
+  },
+  "homepage": "https://github.com/bhavesh1334/rj-spinner#readme"
+}
